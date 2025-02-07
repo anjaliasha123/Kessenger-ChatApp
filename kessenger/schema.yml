@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Kessenger Chat API
+  version: 1.0.0
+  description: API documentation for a discord like chat app - Kessenger
+paths: {}
+components: {}
